@@ -8,6 +8,7 @@ Thumbs.db
 # IDE Files #
 ##############
 .idea
+atlassian-ide-plugin.xml
 
 # Node Files #
 ##############
