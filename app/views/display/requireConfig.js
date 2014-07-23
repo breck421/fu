@@ -10,4 +10,4 @@ require.config({
         deviceView: '../../lib/deviceView'
     }
 });
-require(['intro']);
+require(['content']);
