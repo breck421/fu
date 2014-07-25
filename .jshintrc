@@ -1,0 +1,20 @@
+{
+    "esnext": false,
+    "moz": true,
+    "boss": true,
+    "node": true,
+    "validthis": true,
+    "quotmark": false,
+    "trailing": false,
+    "smarttabs": true,
+    "laxbreak": true,
+    "laxcomma": true,
+    "eqnull": true,
+    "-W099": true,
+    "-W009": true,
+    "-W041": true,
+    "-W018": true,
+    "globals": {
+        "jQuery": true
+    }
+}

@@ -26,7 +26,7 @@ define(function(require, exports, module) {
         });
 
         mainContext.add(deviceModifier).add(device);
-    };
+    }
 
     var firstSurface = new Surface({
         size: [200, 400],
